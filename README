@@ -23,4 +23,4 @@ create signature button
 write message receive
 verify signature button
 ---------------------------------
-<img src="./home.png">
+![Alt text](relative/path/to/home.png?raw=true "Title")
