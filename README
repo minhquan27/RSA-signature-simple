@@ -7,14 +7,6 @@ RSA index HTML
 app API Flask
 test file
 -------------------------------
-main.py — This will be our main project file, all our Python code will be in this file (Routes, MySQL connection, validation, etc).
-index.html — Login form created with HTML5 and CSS3.
-register.html — Registration form created with HTML5 and CSS3.
-home.html — The home template to display for logged-in users.
-profile.html — The profile template to display for logged-in users.
-layout.html — The layout template for the home and profile templates.
-style.css — The CSS3 stylesheet for our login and registration system.
-----------------------------------------------------------
 Run program
 Run app
 generate_key button
@@ -23,4 +15,3 @@ create signature button
 write message receive
 verify signature button
 ---------------------------------
-![picture]( https://github.com/minhquan27/RSA_signature_simple/blob/master/home.PNG)
